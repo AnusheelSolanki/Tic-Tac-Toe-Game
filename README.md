@@ -1,8 +1,6 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/6WCkqZbI)
+# TicTacToe Game
 
-# A5-TicTacToe
-
-## Name
+## Collaborators
 - Anusheel Solanki - 2020B3A70541G (f20200541@goa.bits-pilani.ac.in)
 - Nandish Chokshi - 2020B1A72031G (f20202031@goa.bits-pilani.ac.in)
 
@@ -25,10 +23,6 @@ The player can create a two player game by selecting the two player option. Here
 ---
 ## Time Taken to develop the app
 - Approximately 50-60 hours were spent on developing the app.
----
-
-## Pair-Programming
-- 5 (used pair programming thoroughly)
 ---
 
 ## Difficulty
