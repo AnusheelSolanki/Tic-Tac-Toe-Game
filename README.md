@@ -24,9 +24,3 @@ The player can create a two player game by selecting the two player option. Here
 ## Time Taken to develop the app
 - Approximately 50-60 hours were spent on developing the app.
 ---
-
-## Difficulty
-- 10/10
-
-## Attributes
-- Help taken from Abhinav and Anish's Group 
