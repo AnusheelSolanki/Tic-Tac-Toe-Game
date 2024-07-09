@@ -20,7 +20,3 @@ The user now gets navigated to the game fragment using nav controller. Firstly a
 ## Task-3
 The player can create a two player game by selecting the two player option. Here we open the game fragment with a string as an argument in the nav graph that represents the Id of the first player who created the game. User can also open a multiplayer game by clicking on one of the available games in the dashboard. For implementing this we have made a new child for the firebase database that has all available online games. We extract data from this database for every other user and display it in the dashboard using recycler view. There is a string which stores the current state of the game and that is displayed on both the screen. The game in firebase stores the value of player1, player2, gameState and gameResult respectively. When we are in the Two Player game, the creator is notified by a toast that the second user is ready to play. Now if we press the back button for both the users we remove that game from database so that it is not seen further. The same alert dialog is used which was used in one player mode that pops to ask for forfeit or returning back to game.
 
----
-## Time Taken to develop the app
-- Approximately 50-60 hours were spent on developing the app.
----
